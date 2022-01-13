@@ -1,0 +1,4 @@
+Outlier1 ImprChosen
+Outlier2 ImprChosen
+Outlier3 NotImprChosen
+Outlier4 NotImprChosen
